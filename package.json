@@ -1,0 +1,21 @@
+{
+  "name": "slow-and-steady",
+  "version": "1.0.0",
+  "description": "A Socratic, bite-sized app-building methodology skill for Claude Code, OpenCode, and Cursor.",
+  "main": "bin/install.js",
+  "bin": {
+    "slow-and-steady": "./bin/install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude-code",
+    "opencode",
+    "cursor",
+    "skill",
+    "agent"
+  ],
+  "author": "",
+  "license": "MIT"
+}
